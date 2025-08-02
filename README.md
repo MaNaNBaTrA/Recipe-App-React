@@ -85,11 +85,6 @@ npx expo start
 
 ---
 
-## 📸 Screenshots (Coming Soon)
-
-_You can showcase 2–3 screens here like: Home, Recipe Detail, Favorites._
-
----
 
 ## 💡 Future Improvements
 
